@@ -70,4 +70,4 @@
   
 Запуск в браузере.
 
-  [!web1](https://github.com/AzeePoDz/kis-crossplatform/blob/main/workphotos/ueweb.PNG)
+  ![web1](https://github.com/AzeePoDz/kis-crossplatform/blob/main/workphotos/ueweb.PNG)
